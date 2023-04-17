@@ -1,0 +1,150 @@
+
+
+
+div.about-me{
+    text-align: center;
+    width: 100%;
+    height: 440px;
+    background-color:#BBBBBB;
+    padding-top:75px;
+
+
+   
+}
+
+.about-name{
+    justify-content: center;
+}
+
+
+.about-image{
+    border-radius: 50%;
+}
+.belong{
+    justify-content: center;
+}
+
+.lab{
+    justify-content: center;
+
+}
+
+.fa-github:before {
+    content: "\f09b";
+}
+
+.introduce.author-github a::before{
+    content: "\f09b";
+}
+
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+.github{
+    
+ 
+  }
+
+.about-me-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+    
+
+    
+}
+.introduce{
+    margin-left: 2em;
+}
+
+
+.introduce>dl{
+    margin-left: 1em;
+
+}
+.carrer{
+    margin-left: 2em;
+
+}
+
+.Language{
+    margin-left: 2em;
+}
+
+.intern{
+    margin-left: 2em;
+
+}
+
+.compe{
+    margin-left: 2em;
+
+
+}
+
+.research{
+    margin-left: 2em;
+    
+
+}
+
+.hobby{
+    margin-left: 2em;
+    
+
+}
+
+.introduce-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+}
+
+.carrer-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
+
+.Language-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
+
+.intern-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
+
+.compe-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
+.research-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
+.hobby-header{
+    --tw-text-opacity: 1;
+    color: rgb(65 114 181/var(--tw-text-opacity));
+
+
+}
